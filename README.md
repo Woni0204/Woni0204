@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-name: Woni0204
-uses: lowlighter/metrics@latest
-with:
-  template: terminal
-  filename: metrics.terminal.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, metadata
-
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true"/></a>
