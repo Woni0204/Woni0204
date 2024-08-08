@@ -4,7 +4,7 @@
 -------
 
 <a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true" alt="Woni0204's github stats" /></a>
-<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=vue&hide_border=true"/></a>
+<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=nord&hide_border=true"/></a>
 
 <div align="left">
  
