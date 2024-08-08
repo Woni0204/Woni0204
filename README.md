@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true"/></a>
+</p>
+
 <!--
 **Woni0204/Woni0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
