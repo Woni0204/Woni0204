@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woni's+Github!👋)]()
 
-<div align="left">
-
 -------
 
 <a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true" alt="Woni0204's github stats" /></a>
-<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=nord&hide_border=true"/></a>
 
-<br>
+<div align="left">
  
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
