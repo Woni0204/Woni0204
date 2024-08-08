@@ -3,8 +3,14 @@
 
 -------
 
-<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true" alt="Woni0204's github stats" /></a>
-<a href="https://github.com/Woni0204"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=nord&hide_border=true"/></a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Woni0204" style="width: 50%; text-align: center;">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Woni0204&theme=ambient_gradient&show_icons=true" alt="Woni0204's github stats" />
+  </a>
+  <a href="https://github.com/Woni0204" style="width: 50%; text-align: center;">
+    <img style="width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woni0204&layout=compact&theme=nord&hide_border=true" alt="Woni0204's top languages" />
+  </a>
+</div>
 
 <div align="left">
  
