@@ -27,6 +27,8 @@
 
 </div><br>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+
 <!--
 **Woni0204/Woni0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
