@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80)
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="header" style="width: 100%;">
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=D8BFD8FF&center=False&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woni's+Github!👋)]()
 
 -------
@@ -27,7 +29,9 @@
 
 </div><br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&section=footer&text=&animation=twinkling&height=80)
+<div style="text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="footer" style="width: 100%;">
+</div>
 
 <!--
 **Woni0204/Woni0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
