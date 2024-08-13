@@ -36,7 +36,7 @@
 </div><br>
 
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="footer" style="width: 100%; transform: scaleY(-1);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="footer" style="width: 100%; -webkit-transform: scaleY(-1); transform: scaleY(-1);">
 </div>
 
 <!--
