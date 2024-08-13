@@ -1,13 +1,5 @@
-<div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="header" style="width: 100%;">
-</div>
-
-<div style="text-align: center;">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=D8BFD8FF&center=True&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woni's+Github!👋" alt="Typing SVG">
-  </a>
-</div>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80&width=100%)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=D8BFD8FF&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Woni's+Github!👋)]()
 
 -------
 
@@ -23,8 +15,8 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="left">
- 
-## 📞 Contact
+
+## 📞 <span style="color: #FF5733;">Contact</span>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jeongwonlee0204@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -35,9 +27,7 @@
 
 </div><br>
 
-<div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&text=&animation=twinkling&height=80" alt="footer" style="width: 100%; -webkit-transform: scaleY(-1); transform: scaleY(-1);">
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&section=footer&text=&animation=twinkling&height=80&width=100%)
 
 <!--
 **Woni0204/Woni0204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
