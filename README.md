@@ -16,7 +16,7 @@
 
 <div align="left">
 
-## 📞 <span style="color: #FF5733;">Contact</span>
+## 📞 <p>$\color{#FF5733}\text{Contact}$</p>
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jeongwonlee0204@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
