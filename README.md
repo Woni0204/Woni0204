@@ -16,6 +16,16 @@
 
 <div align="left">
 
+## 👋 Introduction
+* Jeongwon Lee (이정원)
+* Master Program in Chung-Ang University
+
+## 📖 Interest
+* Semi-supervised Learning
+* Self-Training
+* Semantic Segmentation
+
+
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:jeongwonlee0204@gmail.com">
