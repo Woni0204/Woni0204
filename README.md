@@ -27,7 +27,7 @@
 
 ## Education
 * `2024.03 - ` : M.S. in Department of Artificial Intelligence, Chung-Ang University, Korea
-* `2018.03 - 2024.02` : B.S. in Computer Science, Semyung University, Korea (4.41/4.5) (***<U>Summa cum laude</U>***)
+* `2018.03 - 2024.02` : B.S. in Computer Science, Semyung University, Korea (4.41/4.5) (***Summa cum laude***)
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
