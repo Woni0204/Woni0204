@@ -21,8 +21,6 @@
 * Master Program in Chung-Ang University
 
 ## 📖 Interest
-* Semi-supervised Learning
-* Self-Training
 * Semantic Segmentation
 
 ## 🎓 Education
