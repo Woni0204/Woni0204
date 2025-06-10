@@ -27,37 +27,34 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
-      # 1) 전체 이력을 가져오도록 fetch-depth: 0
-      - uses: actions/checkout@v2
+      - name: Checkout full history
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
           persist-credentials: true
 
-      # 2) 프로필 3D 컨트리뷰션 생성
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - name: Generate 3D contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
           USERNAME:        ${{ github.repository_owner }}
 
-      # 3) 리모트 최신 커밋을 로컬에 병합(또는 리베이스)
-      - name: Sync remote changes
+      - name: Sync remote changes (fetch & rebase)
         run: |
-          git pull --rebase origin main
+          git fetch origin main
+          git rebase origin/main
 
-      # 4) 커밋 & 푸시
       - name: Commit & Push
         run: |
           git config user.name  "Woni0204"
           git config user.email "jeongwonlee0204@gmail.com"
           git add -A
-          git commit -m "generated" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "generated"
           git push
