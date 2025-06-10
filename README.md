@@ -21,7 +21,8 @@
 * Master Program in Chung-Ang University
 
 ## 📖 Interest
-* Semantic Segmentation
+* Image Segmentation
+* Design Lightweight Model
 
 ## 🎓 Education
 * `2024.03 - ` : M.S. in Department of Artificial Intelligence, Chung-Ang University, Korea
