@@ -18,14 +18,16 @@
 
 ## 👋 Introduction
 * Jeongwon Lee (이정원)
-* Master Program in Chung-Ang University
+* Currently at PIA Space Co., Ltd.
+* M.S. in AI from Chung-Ang University
+* B.S. in Computer Science from Semyung University
 
 ## 📖 Interest
 * Image Segmentation
 * Design Lightweight Model
 
 ## 🎓 Education
-* `2024.03 - ` : M.S. in Department of Artificial Intelligence, Chung-Ang University, Korea
+* `2024.03 - 2026.02` : M.S. in Department of Artificial Intelligence, Chung-Ang University, (4.21/4.5) Korea
 * `2018.03 - 2024.02` : B.S. in Computer Science, Semyung University, Korea (4.41/4.5) (***Summa cum laude***)
 
 ## 📞 Contact
